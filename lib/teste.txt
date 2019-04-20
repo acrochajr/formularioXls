@@ -1,0 +1,26 @@
+array(12) {
+  ["nome_da_loja"]=>
+  string(5) "teste"
+  ["numero_de_funcionario"]=>
+  string(1) "5"
+  ["faturamento_medio"]=>
+  string(3) "500"
+  ["mark_up"]=>
+  string(1) "2"
+  ["marcas_principais"]=>
+  string(11) "teste teste"
+  ["instagram"]=>
+  string(3) "eu "
+  ["facebook"]=>
+  string(2) "eu"
+  ["preco_medio_varejo"]=>
+  string(3) "675"
+  ["pronta_entrega"]=>
+  string(1) "2"
+  ["cidade"]=>
+  string(10) "navegantes"
+  ["uf"]=>
+  string(2) "SC"
+  ["metros_quadrados_loja"]=>
+  string(3) "100"
+}
